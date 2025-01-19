@@ -1,5 +1,23 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
+title,Title,
 creator,Creator,,,
-subject,,true
-location,,true
+date,Date Acquired,true,,Date
+description,Description,
+journalnumber,Journal Number,true,,Journal #
+pagenumber,Page Number,,
+subject,Subjects,true
+source,Source
+bonsainame,Bonsai Name,,
+bonsaispecies,Bonsai Species,,
+speciescommon,Species Common,true,,,
+bonsaitype,Bonsai Type,,
+repotteddate,Repotted Date,,
+deathdate,Death Date,true,,Death Date
+causeofdeath,Cause of Death,,,
+bonsaistyle,Bonsai Style,true,,
+bonsaipot,Bonsai Pot,,
+notes,Notes,,,
+type,Type,
+format,Format,
+rights,Rights,
+rightsstatement,Rights Statement,,true
