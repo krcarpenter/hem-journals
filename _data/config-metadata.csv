@@ -3,12 +3,12 @@ title,Title,
 creator,Creator,
 date,Date Acquired,
 description,Description,
-journalnumber,Journal Number,,true
+journalnumber,Journal Number,,
 pagenumber,Page Number,,
 subject,Subjects,true
 source,Source
 bonsainame,Bonsai Name,,
-bonsaispecies,Bonsai Species,,true
+bonsaispecies,Bonsai Species,,
 speciescommon,Species Common,,
 bonsaitype,Bonsai Type,,
 repotteddate,Repotted Date,,
