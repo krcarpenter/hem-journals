@@ -58,8 +58,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: https://docs.google.com/spreadsheets/d/e/2PACX-1vR0yUvSTDVrTpMuJ7cy0Z4KgZGeTIxeL9Amm3GliZNrCNXoSVEw7rFzytn4forxcaXZBN-iIvIfEztz/pub?output=csv 
-# generate a facets list for given fields, comma delimited
+metadata-export-fields: "title,creator,description,journalnumber,pagenumber,subject,source,bonsainame,bonsaispecies,speciescommon,date,repotteddate,deathdate,causeofdeath,bonsaistyle,bonsaipot,notes,type,format,language,rights,rightsstatement"
 metadata-facets-fields: "subject,creator,format"
 
 ##########
