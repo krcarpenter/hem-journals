@@ -58,7 +58,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,description,journalnumber,pagenumber,subject,source,bonsainame,bonsaispecies,speciescommon,date,repotteddate,deathdate,causeofdeath,bonsaistyle,bonsaipot,notes,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,creator,description,journalnumber,pagenumber,subject,source,bonsainame,bonsaispecies,speciescommon,date,repotteddate,deathdate,causeofdeath,bonsaistyle,bonsaipot,artists,notes,type,format,language,rights,rightsstatement"
 metadata-facets-fields: "subject,creator,format"
 
 ##########
