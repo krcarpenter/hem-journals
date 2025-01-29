@@ -14,13 +14,10 @@ credits: true
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), as a Leadership project for LSC 570. 
 
-I chose to tackle digitization, which I had never attempted before and taught myself how to digitize, organize, and create metadata for these items. The images featured on this site are the journals of Howard E. Merrill II, who began working with bonsai in 1967 and continued until his death in 2021. After his passing, my husband and I (Kaitlyn Carpenter) inherited many of his trees. I wanted to create a digitized version of his journals that documented each tree under his care since 1967 so i can share with family, and potentially teach Bonsai club members how to save and digitize their own memorabilia connected to their bonsai practice. 
+I chose to tackle digitization, which I had never attempted before and taught myself how to digitize, organize, and create metadata for these items. The images featured on this site are the journals of Howard E. Merrill II, who began working with bonsai in 1967 and continued until his death in 2021. After his passing, my husband and I (Kaitlyn Carpenter) inherited many of his trees. I wanted to create a digitized version of his journals that documented each tree under his care since 1967 so I can share with family, and potentially teach Bonsai club members how to save and digitize their own memorabilia connected to their bonsai practice. 
 
 Interested in learning more about Bonsai? Check out the LibGuide I created on how to get started. [Art of Bonsai](https://urilis.libguides.com/artofbonsai )
 
-
-</button>
-{:.text-center}
 
 
 
