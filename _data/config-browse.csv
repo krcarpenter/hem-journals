@@ -17,6 +17,7 @@ causeofdeath,Cause of Death,,,
 bonsaistyle,Bonsai Style,true,,
 bonsaipot,Bonsai Pot,,
 notes,Notes,,,
+currentowner,Current Owner,true,Current Owner
 type,Type,
 format,Format,
 rights,Rights,
